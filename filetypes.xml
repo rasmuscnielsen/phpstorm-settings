@@ -3,19 +3,21 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="vue" type="HTML" />
-      <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
+      <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping ext="ctp" type="PHP" />
+      <mapping pattern="eeb90b4b9099c20a3c6ff3c3279ca2cc37f43380" type="PLAIN_TEXT" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="forms" type="PLAIN_TEXT" />
+      <mapping pattern="c92d0eeb0d8240d0ccfac70fa101a44c8c1c6e8a" type="PLAIN_TEXT" />
       <mapping pattern="ProjectSubscriber.php" type="PLAIN_TEXT" />
-      <mapping ext="mo" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
-      <mapping ext="pp" type="PLAIN_TEXT" />
-      <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="lvue" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="pp" type="PLAIN_TEXT" />
       <mapping ext="scssc" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <removed_mapping ext="vue" type="Vue.js" />
     </extensionMap>
   </component>
