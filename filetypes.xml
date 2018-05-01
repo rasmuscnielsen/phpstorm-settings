@@ -2,30 +2,28 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping ext="vue" type="HTML" />
-      <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern=".php_cs.dist" type="PHP" />
-      <mapping ext="ctp" type="PHP" />
+      <mapping pattern=".php_cs" type="PHP" />
       <mapping ext="stub" type="PHP" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping pattern="default" type="PLAIN_TEXT" />
-      <mapping pattern="734b03c321a4b4ad8368bc90313986735fdc3106" type="PLAIN_TEXT" />
-      <mapping pattern="c92d0eeb0d8240d0ccfac70fa101a44c8c1c6e8a" type="PLAIN_TEXT" />
-      <mapping pattern="b8dd7519fa29a6310244d78080f7096d79304676" type="PLAIN_TEXT" />
-      <mapping pattern="c09b82cd5006c5e502d99626c95c3a4674d04343" type="PLAIN_TEXT" />
-      <mapping pattern="4bf0037c1a1359a507a1331b14e0df949f4f3bc2" type="PLAIN_TEXT" />
-      <mapping pattern="ProjectSubscriber.php" type="PLAIN_TEXT" />
-      <mapping pattern="forms" type="PLAIN_TEXT" />
-      <mapping pattern="empty" type="PLAIN_TEXT" />
-      <mapping pattern="8b0e0fdcfb86928cade86e22b5788327398a089c" type="PLAIN_TEXT" />
+      <mapping ext="ctp" type="PHP" />
       <mapping pattern="eeb90b4b9099c20a3c6ff3c3279ca2cc37f43380" type="PLAIN_TEXT" />
-      <mapping ext="scssc" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping pattern="8b0e0fdcfb86928cade86e22b5788327398a089c" type="PLAIN_TEXT" />
+      <mapping pattern="empty" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern="4bf0037c1a1359a507a1331b14e0df949f4f3bc2" type="PLAIN_TEXT" />
+      <mapping pattern="734b03c321a4b4ad8368bc90313986735fdc3106" type="PLAIN_TEXT" />
+      <mapping pattern="c09b82cd5006c5e502d99626c95c3a4674d04343" type="PLAIN_TEXT" />
+      <mapping pattern="forms" type="PLAIN_TEXT" />
+      <mapping pattern="b8dd7519fa29a6310244d78080f7096d79304676" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="c92d0eeb0d8240d0ccfac70fa101a44c8c1c6e8a" type="PLAIN_TEXT" />
+      <mapping pattern="ProjectSubscriber.php" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="pp" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
-      <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="lvue" type="PLAIN_TEXT" />
-      <removed_mapping ext="vue" type="Vue.js" />
+      <mapping ext="scssc" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

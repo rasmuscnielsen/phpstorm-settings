@@ -65,6 +65,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Navigation Bar">
+        <Item>
+          <IdeaActionID>ViewNavigationBar</IdeaActionID>
+          <ShortCut>'⌥↑'</ShortCut>
+          <Description>Navigation Bar</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Paste">
         <Item>
           <IdeaActionID>$Paste</IdeaActionID>
