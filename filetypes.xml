@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping ext="vue" type="HTML" />
       <mapping pattern=".php_cs.dist" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping ext="ctp" type="PHP" />
@@ -11,12 +10,11 @@
       <mapping pattern="forms" type="PLAIN_TEXT" />
       <mapping pattern="ProjectSubscriber.php" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
-      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="pp" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="lvue" type="PLAIN_TEXT" />
       <mapping ext="scssc" type="PLAIN_TEXT" />
-      <removed_mapping ext="vue" type="Vue.js" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
