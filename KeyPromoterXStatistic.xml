@@ -54,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2359</Count>
+          <Count>2378</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -70,7 +70,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>61</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Method...">
