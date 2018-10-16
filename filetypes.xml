@@ -8,9 +8,11 @@
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern="forms" type="PLAIN_TEXT" />
+      <mapping pattern="develop" type="PLAIN_TEXT" />
       <mapping pattern="ProjectSubscriber.php" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern="_artisan" type="PLAIN_TEXT" />
       <mapping ext="lvue" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
