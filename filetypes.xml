@@ -9,6 +9,7 @@
       <mapping pattern="empty" type="PLAIN_TEXT" />
       <mapping pattern="forms" type="PLAIN_TEXT" />
       <mapping pattern="develop" type="PLAIN_TEXT" />
+      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern="ProjectSubscriber.php" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
