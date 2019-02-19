@@ -22,6 +22,9 @@
   <action id="SmartSelect" />
   <action id="SurroundWith" />
   <action id="TableResult.GrowSelection" />
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="meta numpad0" />
+  </action>
   <action id="ViewNavigationBar">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
