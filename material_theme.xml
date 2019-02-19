@@ -1,5 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="isWizardShown" value="true" />
     <option name="accentColor" value="80cbc4" />
     <option name="highlightColor" value="80cbc4" />
     <option name="userId" value="5dc615e8:168f0d6c1e2:-7ffc" />
