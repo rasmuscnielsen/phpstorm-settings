@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4114</Count>
+          <Count>4069</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -71,14 +71,6 @@
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
           <Count>27</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Enter Distraction Free Mode">
-        <Item>
-          <IdeaActionID>ToggleDistractionFreeMode</IdeaActionID>
-          <ShortCut>'⌘0'</ShortCut>
-          <Description>Enter Distraction Free Mode</Description>
-          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
